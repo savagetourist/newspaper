@@ -1,0 +1,127 @@
+  /* other css */
+li.toplevel_page_themepunch-google-fonts{display:none;}
+li a[href="admin.php?page=ultimate-updater"]{display:none !important;}
+.wp-admin select{max-width: 95% !important; margin-left: 0px !important;}
+i.fa.selected{background: #333;color:white;}
+.selectedIcon i.fa{margin-left: 10px !important;}
+.hazel_sidebars_available{float:left;width: 100%;}
+#poststuff .inside{max-width: 100%;}
+#pageparentdiv .inside{max-width: 96%;}
+
+/* TW Elements */
+.vc_extend_testimonials_icon {
+  background-position: 0 -1888px !important;
+}
+
+.cbpw-upgrade-cover{display: none !important;}
+
+.rev-btn{font-family: "Open Sans", "Arial", sans-serif !important;}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{border: none !important;}
+
+.ui-widget-header .ui-state-default.ui-dialog-titlebar-close{border: none !important;background: transparent !important;}
+.help-button, .help-button:hover, .help-button:focus{outline: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;}
+.hazel_icon_container{display:none;}
+/* New 2.6*/
+.rs-update-notice-wrap, .vc_license-activation-notice, 
+.plugins #revslider-update,
+.plugins #Ultimate_VC_Addons-update,
+.plugins #wpbakery-page-builder-update{display: none !important;}
+.des_icon_container, #templatepath, .hazel_demo_status, #homePATH, #back_top{display: none;}
+/* .rs-update-notice-wrap, .plugin-update-tr, .rs-dash-widget{display: none !important;} */
+.vc_btn3.vc_btn3-shape-rounded{border-radius: 3px !important;}
+.tp-caption.rev-btn.small-rounded{border-radius: 3px !important;}
+
+
+.vc_btn3-container button, .tp-caption.rev-btn{
+	font-family: 'Montserrat', 'Arial', sans-serif !important;
+    font-weight: 700 !important;
+}
+
+
+.vc_btn3-container button, .tp-caption.rev-btn{
+	font-family: 'Montserrat', 'Arial', sans-serif !important;
+    font-weight: 700 !important;
+}
+.rev-btn{
+	padding: 13px 20px 14px 20px !important;
+	font-family: 'Montserrat', 'Arial', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+    letter-spacing: 1px !important;
+}
+.rev-btn.rev-uppercase, .rev-btn.rev-uppercase:visited {
+    letter-spacing: 0 !important;
+    font-size: 14px !important;
+}
+.rev-btn.rev-medium, .rev-btn.rev-medium:visited {
+    font-size: 12px !important;
+    padding: 12px 25px !important;
+}
+.rev-btn.rev-small, .rev-btn.rev-small:visited {
+    font-size: 11px !important;
+    padding: 10px 20px !important;
+}
+.rev-btn.rev-hiddenicon i{font-size: 14px !important;}
+.rev-btn.rev-medium, .rev-btn.rev-small, .bsf-core-license-form-btn{display: none !important;}
+
+.cbp-ratio-masonry .cbp-caption.stylePanel{
+    max-height: 290px !important;
+    overflow: hidden !important;
+}
+
+.widget-recent-posts-categories label, .widget-testimonials-categories label, .widget-team-categories label{display: inline-block; width: 48%;margin-bottom: 5px;}
+.bsf-update-nag{display: none !important;}
+
+.ace-xcode {
+    border: 1px solid #ededed;
+}
+
+
+.option > h4{font-weight: 900 !important;}
+
+.fa-sliding_panel-painel:before{margin-left:5px;}
+
+.ui-widget-header:not(.tab_navigation .ui-widget-header) {
+    border: none;
+    background: #0073aa;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+.postbox-container .ui-dialog-titlebar h4 {
+    color: #fff;
+	margin: 0;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 0;
+}
+.postbox-container .ui-widget-header .ui-icon, .rs-open-premium-benefits-dialog-container{display: none !important;}
+.postbox-container .ui-widget-header {
+    border-radius: 0;
+}
+.icon-small{display: none;}
+.cbp-filter-item{border-radius: 0 !important;}
+.cbpw-modal-footer {
+    display: block;
+    float: right;
+    border: none !important;
+}
+
+#vc_ui-panel-templates .vc_ui-panel-content-container{
+	overflow-y: hidden !important;
+}
+#vc_ui-panel-templates {
+    max-height: auto !important;
+}
+.ui-widget-overlay.ui-front {
+    display: none;
+}
+.option-container #sidebar_for_default_value{display: none;}
+.note_box button {
+    background: #168b92;
+    border: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #fff;
+}
